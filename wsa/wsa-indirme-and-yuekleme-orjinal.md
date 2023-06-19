@@ -33,7 +33,7 @@ Sanal Makine Platform aktifleştirdikten sonra bilgisarınızı yeniden başlatm
 
 [https://www.microsoft.com/store/productId/9P3395VX91NR](https://www.microsoft.com/store/productId/9P3395VX91NR) adresine gidiyoruz Türkçe olarak açıldıysa "Al" ingilizce olarak açıldıysa "get" button basıyoruz. Ardından Microsoft store açmak istediğini belirtiyor tarayıcımız tamam basıyoruz.
 
-![](<../.gitbook/assets/image (69).png>)
+![](<../.gitbook/assets/image (59).png>)
 
 ve buradan "Yükle" veya "Al" basarak indiriyoruz.
 
@@ -52,7 +52,7 @@ ilk önce [https://store.rg-adguard.net/](https://store.rg-adguard.net/) bağlan
 
 Aşağıdaki görsel gibi olması gerekiyor.
 
-![](<../.gitbook/assets/image (194).png>)
+![](<../.gitbook/assets/image (89).png>)
 
 "MicrosoftCorporationII.WindowsSubsystemForAndroid\_1.7.32815.0\_neutral\_\~\_8wekyb3d8bbwe.msixbundle" adlı dosyayı bulunuz
 
@@ -60,7 +60,7 @@ Aşağıdaki görsel gibi olması gerekiyor.
 NOT: Siz bu rehbere baktığınızda yeni bir sürüm çıkabilir o yüzden 1,2 GB+ olmasına dikkat ederek daha rahat bulabilirsiniz sonu ".msixbundle" ile bitmesinede dikkat edin
 {% endhint %}
 
-![](<../.gitbook/assets/image (197).png>)
+![](<../.gitbook/assets/image (92).png>)
 
 ### Yükleme
 

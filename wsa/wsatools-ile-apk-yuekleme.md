@@ -22,13 +22,13 @@ WSA'yı açınız.
 
 Ardından "Geliştirici Modu" aktif ediniz.
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## MS Store üzerinden indirme & yükleme
 
 [https://www.microsoft.com/store/productId/9N4P75DXL6FG](https://www.microsoft.com/store/productId/9N4P75DXL6FG) adresine gidiyoruz Türkçe olarak açıldıysa "Al" ingilizce olarak açıldıysa "get" button basıyoruz. Ardından Microsoft store açmak istediğini belirtiyor tarayıcımız tamam basıyoruz.
 
-![](<../.gitbook/assets/image (100).png>)
+![](<../.gitbook/assets/image (178).png>)
 
 ve buradan "Yükle" veya "Al" basarak indiriyoruz.
 
@@ -40,17 +40,17 @@ WSATools uygulamamızı açıyoruz.
 
 ve "Select an APK" Basıyoruz
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ardından APK Dosyamızın konumuna gidip dosyamızı seçelim ve load apk seçeneğini işaretleyin.
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (141).png>)
 
 
 
 ve install button basın.
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 başarıyla tamamlandıysa tüm işlemler. başarıyla yüklemiş olduk apk uygulamamızı.
 

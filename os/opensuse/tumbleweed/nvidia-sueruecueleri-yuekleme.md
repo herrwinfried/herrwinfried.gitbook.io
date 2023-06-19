@@ -163,5 +163,5 @@ Yön tuşlarıyla aşağı ve yukarı yapabilirsiniz.
 4. <mark style="color:red;">Parola isteyecek sizden ekranda gözükmeyecektir. Parolanız Root şifresidir ve NumPad çalışmayabilir. Şifrenizi girin</mark>
 5. <mark style="color:red;">Reboot seçin ve enter tuşuna basın</mark>
 
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption><p>Örnek Görsel OpenSUSE Wikipedia alıntılanmıştır.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Örnek Görsel OpenSUSE Wikipedia alıntılanmıştır.</p></figcaption></figure>
 

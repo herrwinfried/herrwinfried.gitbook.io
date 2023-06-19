@@ -74,7 +74,7 @@ nano postgresql.conf
 
 Aşağıdaki resimdeki gibi işaretlenen değerlerin başındaki `#` işaretini kaldırınız listen\_Addresses = '\*' değil ise düzeltin ve görseldeki gibi yapınız.
 
-<figure><img src="../../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ardından CTRL + X basıp Y yazıp enter tuşuna basınız.&#x20;
 
@@ -93,7 +93,7 @@ host    all             all             127.0.0.1/32            md5
 host    all             all             ::1/128                 md5
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ardından CTRL + X basıp Y yazıp enter tuşuna basınız.&#x20;
 

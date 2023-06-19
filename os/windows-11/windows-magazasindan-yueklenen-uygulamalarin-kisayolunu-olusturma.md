@@ -14,14 +14,14 @@ description: >-
 explorer shell:AppsFolder
 ```
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../.gitbook/assets/image (211).png>)
 
 istediğiniz uygulamayı seçin ve onun üstüne gelip sağ tıklayın ardından kısayol oluştur basınız.
 
-![](<../../.gitbook/assets/image (164).png>)
+![](<../../.gitbook/assets/image (202).png>)
 
 ardından bize bir uyarı geliyor buraya oluşturalamıyor masaüstüne oluşturayım mı diye evet diyin.
 
-![](<../../.gitbook/assets/image (95).png>)
+![](<../../.gitbook/assets/image (210).png>)
 
 ve bu kadar!

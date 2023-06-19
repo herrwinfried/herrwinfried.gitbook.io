@@ -35,7 +35,7 @@ opi chrome
 
 RPM seçiyoruz ve indiriyoruz.
 
-<figure><img src="../../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 İndirdiğimiz dizine gidiyoruz ve terminal açıyoruz ardından şu komutu yazıyoruz.
 

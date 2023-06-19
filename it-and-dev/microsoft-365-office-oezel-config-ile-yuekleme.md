@@ -14,7 +14,7 @@ description: >-
 
 1. 32 bit mi 64 mü indirceğinizi seçiniz. (Her ikisi için oluşturcaksanız aynısından bir tane daha oluşturmalısınız.)
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Products
 
@@ -23,20 +23,20 @@ description: >-
 4. Project yüklenip yüklenmiceğini seçiniz. (ben none olarak bıraktım)
 5. Ek ürün yüklenip yüklenmiceğini seçiniz. (Ben Language pack olarak işaretledim)
 
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ### Update Channel
 
 6. Güncelleme kanallarını seçiniz.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ### Apps
 
 7. Hangi uygulamaların yüklenip yüklenmiceğini seçiniz.
 8. Next butonuna basınız.
 
-<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### Language
 
@@ -44,19 +44,19 @@ description: >-
 10. İkinci dil ekleyin (İsteğe bağlı)
 11. İkinci dil Yazım denetleyicisi ekleyin (İsteğe bağlı)
 
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation
 
 Kurulum seçeneklerinizi ayarlayınız.
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 ### Upgrade Options
 
 yükseltme seçeneklerinizi ayarlayınız.
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Licence
 
@@ -64,7 +64,7 @@ yükseltme seçeneklerinizi ayarlayınız.
 
 Lisans ayarlarını yapınız.
 
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 ### Application preferences
 
@@ -72,7 +72,7 @@ Lisans ayarlarını yapınız.
 
 Uygulamalar için ayarları yapınız.
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 Finish buttonuna basınız.
 
@@ -80,15 +80,15 @@ Finish buttonuna basınız.
 
 "Export" Seçeneğine tıklıyalım.
 
-<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 "Office Open XML Formats" olarak işaretleyin ve ilerleyin.
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Sözleşmeyi kabul ediniz ve Export buton tıklayınız.
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Office Deployment tool indirme
 
@@ -96,7 +96,7 @@ Finish buttonuna basınız.
 
 "Download" tıklayın.
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. odt (Office deployment tool) çalıştırma
 

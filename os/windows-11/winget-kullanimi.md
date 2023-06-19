@@ -18,7 +18,7 @@ search sonra aramak istediğiniz paket ismini yazmalısınız. Örneğin aşağ�
 winget search Steam
 ```
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
 ### Aradığım Paket iki kelimeden oluşuyor nasıl yazmalıyım?
 
@@ -28,7 +28,7 @@ tırnak işareti eklemelisiniz. Örneğin aşağıdaki komuta bakınız.
 winget search "Visual Studio"
 ```
 
-![](<../../.gitbook/assets/image (176).png>)
+![](<../../.gitbook/assets/image (228).png>)
 
 ## Paket nasıl yüklerim?
 

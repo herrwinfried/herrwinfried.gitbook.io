@@ -26,27 +26,27 @@ Bu Rehberde Kendi yaptığım grafiksel arayüzlü taşınabilir bir programı k
 
 [https://github.com/herrwinfried/EasierWsaInstallerGui/releases](https://github.com/herrwinfried/EasierWsaInstallerGui/releases) Sayfasına gidiyoruz.
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
 En güncel sürümünü seçip zip dosyasını indiriyoruz.
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Ardından indirdiğimiz zip üstüne gelip "Tümünü Ayıkla..." basın.
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 Ardından Ayıkla basınız.&#x20;
 
-<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 Ardından ayıklanan klasörün içine giriniz ve EasierWsaInstaller.Desktop(.exe) Uygulamasını bulup ve çift tıklayın.
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 Böyle bir ekran ile karşılaşırsanız "Ek Bilgi..." Ardından "Yine de çalıştır" butonuna basınız.
 
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Açılcak olan ekranda "önkoşulları yükle" butonuna basınız.
 
@@ -58,15 +58,15 @@ Açılıcak olan pencerede 1-2 kere yönetici izni istiyecektir Yönetici iznini
 
 ### Önhazırlık - Yeniden Başlattıktan sonra
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Başlat menünüze gelip Ubuntu adlı uygulamayı bulunuz ve üstüne çift tıklayınız.
 
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Bir kullanıcı adı ve şifre giriniz sırasıyla. <mark style="color:red;">Şifre Oluştururken yazdığınız karakterler güvenlik gerekçesi ile gözükmicektir.</mark>
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 Böyle olduğu durumda ekranı kapatabiliriz. Ardından Kuruluma geçelim!
 
@@ -74,15 +74,15 @@ Böyle olduğu durumda ekranı kapatabiliriz. Ardından Kuruluma geçelim!
 
 EasierWsaInstaller uygulamasın klasörünü açalım.
 
-<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 EasierWsaInstaller.Desktop(.exe) Uygulamasını bulup ve çift tıklayın.
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 Böyle bir ekran ile karşılaşırsanız "Ek Bilgi..." Ardından "Yine de çalıştır" butonuna basınız.
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 _<mark style="color:green;">Yeşil ile işaretlenmiş alan dışındakilerin değerini değiştirmemeniz önerilir.</mark>_
 

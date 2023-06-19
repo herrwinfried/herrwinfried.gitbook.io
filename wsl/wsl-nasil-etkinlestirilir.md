@@ -44,7 +44,7 @@ Bilgisayarınızı yeniden başlatınız.
 
 [https://www.microsoft.com/store/productId/9P9TQF7MRM4R](https://www.microsoft.com/store/productId/9P9TQF7MRM4R) adresine gidiyoruz Türkçe olarak açıldıysa "Al" ingilizce olarak açıldıysa "get" button basıyoruz. Ardından Microsoft store açmak istediğini belirtiyor tarayıcımız tamam basıyoruz.
 
-![](<../.gitbook/assets/image (110).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ve buradan "Yükle" veya "Al" basarak indiriyoruz. İndirme işlemleri tamamlandıktan sonra işimizin garanti olması adına
 

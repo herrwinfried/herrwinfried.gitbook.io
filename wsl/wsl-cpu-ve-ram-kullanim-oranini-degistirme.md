@@ -26,7 +26,7 @@ Dosya > Farklı Kaydet diyoruz
 
 ardından C:\Users\\\<Kullanıcı>\ klasörüne gidiyoruz ve .wslconfig olarak dosyamızı kayıt ediyoruz.
 
-![](<../.gitbook/assets/image (92).png>)
+![](<../.gitbook/assets/image (82).png>)
 
 Ardından WSL açık ise yeni değişikliklerimizi uygulaması adına kapatıyoruz.
 

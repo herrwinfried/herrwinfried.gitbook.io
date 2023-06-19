@@ -11,11 +11,11 @@ description: Windows 10 & 11 'de Hyper-V aktif etme
 
 &#x20;Denetim Masasını açınız. Ardından <mark style="color:yellow;">"Programlar"</mark> kısmına giriniz.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">Programlar ve Özellikler</mark> altındaki <mark style="color:yellow;">"Windows özelliklerini aç veya Kapat"</mark> Tıklayınız.
 
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 1. <mark style="color:yellow;">"Hyper-V"</mark> ve içindekileri işaretleyiniz.
 2. <mark style="color:yellow;">"Sanal Makine Platformu"</mark> İşaretleyiniz
@@ -23,7 +23,7 @@ description: Windows 10 & 11 'de Hyper-V aktif etme
 4. Tamam Basın.
 5. <mark style="color:red;">**Bilgisayarınızı yeniden başlatın.**</mark>
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 ### Terminal Üzerinden
 
